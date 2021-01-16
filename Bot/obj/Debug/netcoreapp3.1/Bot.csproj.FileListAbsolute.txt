@@ -1,0 +1,13 @@
+C:\Users\Даниль\source\repos\Bot\Bot\bin\Debug\netcoreapp3.1\Bot.exe
+C:\Users\Даниль\source\repos\Bot\Bot\bin\Debug\netcoreapp3.1\Bot.deps.json
+C:\Users\Даниль\source\repos\Bot\Bot\bin\Debug\netcoreapp3.1\Bot.runtimeconfig.json
+C:\Users\Даниль\source\repos\Bot\Bot\bin\Debug\netcoreapp3.1\Bot.runtimeconfig.dev.json
+C:\Users\Даниль\source\repos\Bot\Bot\bin\Debug\netcoreapp3.1\Bot.dll
+C:\Users\Даниль\source\repos\Bot\Bot\bin\Debug\netcoreapp3.1\Bot.pdb
+C:\Users\Даниль\source\repos\Bot\Bot\obj\Debug\netcoreapp3.1\Bot.csprojAssemblyReference.cache
+C:\Users\Даниль\source\repos\Bot\Bot\obj\Debug\netcoreapp3.1\Bot.csproj.CoreCompileInputs.cache
+C:\Users\Даниль\source\repos\Bot\Bot\obj\Debug\netcoreapp3.1\Bot.AssemblyInfoInputs.cache
+C:\Users\Даниль\source\repos\Bot\Bot\obj\Debug\netcoreapp3.1\Bot.AssemblyInfo.cs
+C:\Users\Даниль\source\repos\Bot\Bot\obj\Debug\netcoreapp3.1\Bot.dll
+C:\Users\Даниль\source\repos\Bot\Bot\obj\Debug\netcoreapp3.1\Bot.pdb
+C:\Users\Даниль\source\repos\Bot\Bot\obj\Debug\netcoreapp3.1\Bot.genruntimeconfig.cache
